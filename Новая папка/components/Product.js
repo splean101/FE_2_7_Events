@@ -18,10 +18,3 @@ function Product(props){
 }
 
 export default Product;
-
-// const nameChecker = (str) => {
-//     if (str.length <= 1 || str.trim() === '') {
-//       return false;
-//     }
-//     return true;
-//   };
